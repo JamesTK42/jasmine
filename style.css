@@ -1,8 +1,13 @@
 @media screen and (max-device-width:412px) {
     * {
         background-color: rgb(41, 41, 41);
-        max-width: 90vw;
-        max-height: 90vh;
+        /* max-width: 90vw;
+        max-height: 90vh; */
+    }
+
+    html {
+        width: 100%;
+        height: 100%
     }
 
     body {
