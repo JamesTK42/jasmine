@@ -6,6 +6,8 @@
 
     body {
         position: absolute;
+        height: 100%;
+        top: 5vh;
         left: 5vw;
         right: 5vw;
     }
