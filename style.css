@@ -1,11 +1,11 @@
-@media(orientation: portrait) {
+@media screen and (max-device-width:412px) {
     * {
         background-color: rgb(41, 41, 41);
         max-width: 100%;
     }
 
     body {
-        position: absolute;
+        position: fixed;
         height: 100%;
         top: 5vh;
         left: 5vw;
