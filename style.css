@@ -5,7 +5,7 @@
 
     body {
         position: absolute;
-        top: 5vh;
+        top: 0vh;
         left: 5vw;
         right: 5vw;
     }
@@ -22,7 +22,7 @@
     }
 
     a {
-        background-color: rgba(255, 0, 0, 0);
+        background-color: rgb(59, 59, 59);
     }
 
     p {
