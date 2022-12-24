@@ -1,11 +1,12 @@
 @media(orientation: portrait) {
     * {
         background-color: rgb(41, 41, 41);
+        max-width: 100%;
     }
 
     body {
         position: absolute;
-        top: 0vh;
+        top: 5vh;
         left: 5vw;
         right: 5vw;
     }
